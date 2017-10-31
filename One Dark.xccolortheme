@@ -30,6 +30,8 @@
 	<string>0.239216 0.262745 0.313725 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.454902 0.45098 0.411765 1</string>
+	<key>DVTLineSpacing</key>
+	<real>1.1000000238418579</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.220706 0.235137 0.264 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -130,51 +132,51 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Inconsolata-Regular - 16.0</string>
+		<string>InputMono-Regular - 14.0</string>
 	</dict>
 </dict>
 </plist>
